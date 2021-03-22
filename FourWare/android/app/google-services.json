@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119665456431",
+    "project_id": "fourware-4e5b4",
+    "storage_bucket": "fourware-4e5b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119665456431:android:fe4e9e36696e3511a1ddda",
+        "android_client_info": {
+          "package_name": "com.example.FourWare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119665456431-7e414so87pmiknbsktgbdh8jfks4to4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZas37i2GdMRBLUzHv57uxtW_R3wgHCOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119665456431-7e414so87pmiknbsktgbdh8jfks4to4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
